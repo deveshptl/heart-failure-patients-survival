@@ -1,0 +1,80 @@
+Logistic Regression without SMOTE - Accuracy:  [0.8444444444444444]
+Logistic Regression without SMOTE - Precision:  [0.8076923076923077]
+Logistic Regression without SMOTE - Recall:  [0.7]
+Logistic Regression without SMOTE - F-Score:  [0.75]
+
+Logistic Regression with SMOTE - Accuracy:  [0.7333333333333333]
+Logistic Regression with SMOTE - Precision:  [0.5405405405405406]
+Logistic Regression with SMOTE - Recall:  [0.7407407407407407]
+Logistic Regression with SMOTE - F-Score:  [0.625]
+
+Logistic Regression with imp features & SMOTE - Accuracy:  [0.8]
+Logistic Regression with imp features & SMOTE - Precision:  [0.7096774193548387]
+Logistic Regression with imp features & SMOTE - Recall:  [0.7096774193548387]
+Logistic Regression with imp features & SMOTE - F-Score:  [0.7096774193548389]
+
+Extra Tree Classifier without SMOTE - Accuracy:  [0.8555555555555555]
+Extra Tree Classifier without SMOTE - Precision:  [0.8095238095238095]
+Extra Tree Classifier without SMOTE - Recall:  [0.6538461538461539]
+Extra Tree Classifier without SMOTE - F-Score:  [0.7234042553191489]
+
+Extra Tree Classifier with SMOTE - Accuracy:  [0.8777777777777778]
+Extra Tree Classifier with SMOTE - Precision:  [0.7878787878787878]
+Extra Tree Classifier with SMOTE - Recall:  [0.8666666666666667]
+Extra Tree Classifier with SMOTE - F-Score:  [0.8253968253968254]
+
+Extra Tree Classifier with imp features & SMOTE - Accuracy:  [0.8888888888888888]
+Extra Tree Classifier with imp features & SMOTE - Precision:  [0.7666666666666667]
+Extra Tree Classifier with imp features & SMOTE - Recall:  [0.8846153846153846]
+Extra Tree Classifier with imp features & SMOTE - F-Score:  [0.8214285714285715]
+
+Decision Tree without SMOTE - Accuracy:  [0.8444444444444444]
+Decision Tree without SMOTE - Precision:  [0.7741935483870968]
+Decision Tree without SMOTE - Recall:  [0.7741935483870968]
+Decision Tree without SMOTE - F-Score:  [0.7741935483870968]
+
+Decision Tree with SMOTE - Accuracy:  [0.8333333333333334]
+Decision Tree with SMOTE - Precision:  [0.7575757575757576]
+Decision Tree with SMOTE - Recall:  [0.78125]
+Decision Tree with SMOTE - F-Score:  [0.7692307692307692]
+
+Decision Tree with imp features & SMOTE - Accuracy:  [0.8333333333333334]
+Decision Tree with imp features & SMOTE - Precision:  [0.8]
+Decision Tree with imp features & SMOTE - Recall:  [0.7272727272727273]
+Decision Tree with imp features & SMOTE - F-Score:  [0.761904761904762]
+
+Random Forest without SMOTE - Accuracy:  [0.8888888888888888]
+Random Forest without SMOTE - Precision:  [0.8888888888888888]
+Random Forest without SMOTE - Recall:  [0.6666666666666666]
+Random Forest without SMOTE - F-Score:  [0.761904761904762]
+
+Random Forest with SMOTE - Accuracy:  [0.8777777777777778]
+Random Forest with SMOTE - Precision:  [0.8055555555555556]
+Random Forest with SMOTE - Recall:  [0.8787878787878788]
+Random Forest with SMOTE - F-Score:  [0.8405797101449276]
+
+Random Forest with imp features & SMOTE - Accuracy:  [0.8555555555555555]
+Random Forest with imp features & SMOTE - Precision:  [0.8387096774193549]
+Random Forest with imp features & SMOTE - Recall:  [0.7647058823529411]
+Random Forest with imp features & SMOTE - F-Score:  [0.7999999999999999]
+
+SVM without SMOTE - Accuracy:  [0.8777777777777778]
+SVM without SMOTE - Precision:  [0.7727272727272727]
+SVM without SMOTE - Recall:  [0.7391304347826086]
+SVM without SMOTE - F-Score:  [0.7555555555555555]
+
+SVM with SMOTE - Accuracy:  [0.7666666666666667]
+SVM with SMOTE - Precision:  [0.65625]
+SVM with SMOTE - Recall:  [0.6774193548387096]
+SVM with SMOTE - F-Score:  [0.6666666666666667]
+
+SVM with imp features & SMOTE - Accuracy:  [0.7888888888888889]
+SVM with imp features & SMOTE - Precision:  [0.5833333333333334]
+SVM with imp features & SMOTE - Recall:  [0.84]
+SVM with imp features & SMOTE - F-Score:  [0.6885245901639344]
+
+--------------------- imp features & without SMOTE -------------------
+SVM with imp features & without SMOTE - Accuracy:  [0.8]
+SVM with imp features & without SMOTE - Precision:  [0.75]
+SVM with imp features & without SMOTE - Recall:  [0.65625]
+SVM with imp features & without SMOTE - F-Score:  [0.7]
